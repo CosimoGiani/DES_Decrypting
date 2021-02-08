@@ -26,7 +26,7 @@ int main() {
     Utils* util = new Utils();
 
     // Threads
-    vector<int> num_threads = {2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50};
+    vector<int> num_threads = {2, 3, 4, 5, 6, 12};
 
     // Decrypter initialization
     string salt = "a9";
